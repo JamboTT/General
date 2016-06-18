@@ -1,6 +1,6 @@
 # General
 
-["Binocular",Value],
+["Binocular",Value], endl;
 ["ItemGPS",Value],
 ["ToolKit",Value],
 ["FirstAidKit",Value],
