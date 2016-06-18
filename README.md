@@ -1,31 +1,31 @@
 # General
 
-["Binocular",Value],
+["Binocular","Fernglas",$$],
 
-["ItemRadio",Value],
+["ItemRadio","Funkgerät",$$],
 
-["ItemWatch",Value],
+["ItemWatch","Taschenuhr",$$],
 
-["ItemGPS",Value],
+["ItemGPS","GPS",$$],
 
-["ToolKit",Value],
+["ToolKit","Werkzeugkasten",$$],
 
-["FirstAidKit",Value],
+["FirstAidKit","Erste_Hilfe_Kasten",$$],
 
-["Medikit",Value],
+["Medikit","Medikit",$$],
 
-["NVGoggles",Value],
+["NVGoggles","Nachtsichtbrille",$$],
 
-["ItemMap",Value],
+["ItemMap","Karte",$$],
 
-["ItemCompass",Value],
+["ItemCompass","Kompass",$$],
 
-["Chemlight_blue",Value],
+["Chemlight_blue","Knicklicht_blau",$$],
 
-["Chemlight_yellow",Value],
+["Chemlight_yellow","Knicklicht_gelb",$$],
 
-["Chemlight_green",Value],
+["Chemlight_green","Knicklicht_grün",$$],
 
-["Chemlight_red",Value],
+["Chemlight_red","Knicklicht_rot",$$],
 
-["MineDetector",Value]
+["MineDetector","Minendetektor",$$],
