@@ -2,6 +2,10 @@
 
 ["Binocular",Value],
 
+["ItemRadio",Value],
+
+["ItemWatch",Value],
+
 ["ItemGPS",Value],
 
 ["ToolKit",Value],
